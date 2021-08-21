@@ -1,1 +1,2 @@
-# librarby
+# BarCodeScanner
+BarCode scanning in WiLy
